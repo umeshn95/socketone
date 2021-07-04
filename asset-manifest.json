@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.js": "/socketone/static/js/main.8724d37c.chunk.js",
+    "main.js.map": "/socketone/static/js/main.8724d37c.chunk.js.map",
+    "runtime-main.js": "/socketone/static/js/runtime-main.3c360522.js",
+    "runtime-main.js.map": "/socketone/static/js/runtime-main.3c360522.js.map",
+    "static/css/2.451bf2e4.chunk.css": "/socketone/static/css/2.451bf2e4.chunk.css",
+    "static/js/2.9d729e18.chunk.js": "/socketone/static/js/2.9d729e18.chunk.js",
+    "static/js/2.9d729e18.chunk.js.map": "/socketone/static/js/2.9d729e18.chunk.js.map",
+    "index.html": "/socketone/index.html",
+    "precache-manifest.92e70038929b09ed5500bf005adebe5c.js": "/socketone/precache-manifest.92e70038929b09ed5500bf005adebe5c.js",
+    "service-worker.js": "/socketone/service-worker.js",
+    "static/css/2.451bf2e4.chunk.css.map": "/socketone/static/css/2.451bf2e4.chunk.css.map",
+    "static/js/2.9d729e18.chunk.js.LICENSE.txt": "/socketone/static/js/2.9d729e18.chunk.js.LICENSE.txt",
+    "static/media/polygon.svg": "/socketone/static/media/polygon.9d8b34cd.svg",
+    "static/media/svg-1.svg": "/socketone/static/media/svg-1.7ea0428d.svg",
+    "static/media/svg-10.svg": "/socketone/static/media/svg-10.53709f37.svg",
+    "static/media/svg-11.svg": "/socketone/static/media/svg-11.adc34674.svg",
+    "static/media/svg-12.svg": "/socketone/static/media/svg-12.aa22dc2a.svg",
+    "static/media/svg-13.svg": "/socketone/static/media/svg-13.f520744a.svg",
+    "static/media/svg-14.svg": "/socketone/static/media/svg-14.650f0fc7.svg",
+    "static/media/svg-15.svg": "/socketone/static/media/svg-15.47298adf.svg",
+    "static/media/svg-16.svg": "/socketone/static/media/svg-16.2412e7d7.svg",
+    "static/media/svg-17.svg": "/socketone/static/media/svg-17.e4d107c0.svg",
+    "static/media/svg-18.svg": "/socketone/static/media/svg-18.63f7ad89.svg",
+    "static/media/svg-2.svg": "/socketone/static/media/svg-2.d4846e11.svg",
+    "static/media/svg-5.svg": "/socketone/static/media/svg-5.35c54de9.svg",
+    "static/media/svg-6.svg": "/socketone/static/media/svg-6.8f5dc51b.svg",
+    "static/media/svg-7.svg": "/socketone/static/media/svg-7.32a59fee.svg",
+    "static/media/svg-8.svg": "/socketone/static/media/svg-8.885dc68b.svg",
+    "static/media/svg-9.svg": "/socketone/static/media/svg-9.8c666d4f.svg",
+    "static/media/triangle.svg": "/socketone/static/media/triangle.b9408f88.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c360522.js",
+    "static/css/2.451bf2e4.chunk.css",
+    "static/js/2.9d729e18.chunk.js",
+    "static/js/main.8724d37c.chunk.js"
+  ]
+}
